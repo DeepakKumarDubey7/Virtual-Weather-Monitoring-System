@@ -1,0 +1,3 @@
+build/
+weather_monitor
+logs/*.txt
